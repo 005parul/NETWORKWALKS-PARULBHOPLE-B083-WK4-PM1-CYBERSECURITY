@@ -66,6 +66,8 @@ This project strengthened my understanding of web application testing, SQL injec
 ## 👤 Author
 
 Parul Bhople
-Cybersecurity Intern, Networkwalks
+
+Cybersecurity Intern, 
+Networkwalks
 
 LinkedIn: https://www.linkedin.com/in/parul-b-b7b4a22a8/
